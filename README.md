@@ -58,11 +58,7 @@ The server runs on `http://localhost:3000` by default.
 
 ## API Documentation
 
-### GET
-
-```bash
-\me
-```
+- GET ```/me```
 
 Returns user information and a random cat fact.
 
